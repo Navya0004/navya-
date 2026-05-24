@@ -106,11 +106,4 @@ vercel env add VITE_SUPABASE_ANON_KEY production
 - Keep `.env.local` out of version control (already in `.gitignore`).
 - Never put the Supabase `service_role` key in client code — it's for server-side only.
 
-## How I can help next
-- I can run the `git` push here if you enable Git in this environment or provide a deploy token (not recommended publicly).
-- I can walk you through creating the GitHub repo via the `gh` CLI on your machine.
-- I can help configure Vercel and set env vars if you connect your GitHub account to Vercel.
 
----
-
-If you want, I can now update the repository's README further or add a short CONTRIBUTING section — tell me what you'd prefer.
