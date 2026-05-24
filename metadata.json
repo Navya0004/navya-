@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Ledger",
+  "description": "Precision management for high-velocity logistics and real-time stock distribution across regional hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
